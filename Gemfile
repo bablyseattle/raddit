@@ -35,6 +35,10 @@ gem 'devise'
 gem 'bootstrap-sass'
 
 gem 'acts_as_votable'
+
+gem 'simple_form'
+
+gem 'record_tag_helper'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
